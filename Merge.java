@@ -1,18 +1,23 @@
 public class Merge{
   public static void main(String[ ] args) {
-   //calculate the result of 6*(5+4)/3
-  
-   //Addition/Substraction method
+
+   //Jonathan: call addition method and print on the screen
    
    
-   
-   //Multiplication method
-   
-   
-   //Division method
-   
-   
-   
+   //Maggie: call multiplication method and print on the screen
+    
+    
+   //Raya: call Division method and print on the screen
    
   }
+  
+  //Jonathan: Addition method
+ 
+   
+  //Maggie: Multiplication method
+   
+   
+  //Raya: Division method
+  
+  
 }
